@@ -1,4 +1,4 @@
-# HTB
+# Pentesting 
 
 Organized machine folders.
 Each folder = one machine.
